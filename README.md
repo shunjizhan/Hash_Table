@@ -4,6 +4,7 @@ This is a hash table written in C++, which can do linear probing and double hash
 # Run
     cd Hash_Table/
     make hashTable
+    ./hash
 
 # Functionalities:
 `insert [key] [value]` insert an entry into the hashtable.     
