@@ -6,10 +6,10 @@ This is a hash table written in C++, which can do linear probing and double hash
     make hashTable
 
 # Functionalities:
-`insert [key] [value]` insert an entry into the hashtable. 
-`lookup [key]` Use the hash table to determine if key is in the data structure and print its associated value and also the position separated by a single space.
-`remove [key]` Use the hash table to determine where key is, delete it from the hash table.
-`print:` Print out the hash table (in the array format).
+`insert [key] [value]` insert an entry into the hashtable.     
+`lookup [key]` Use the hash table to determine if key is in the data structure and print its associated value and also the position separated by a single space.    
+`remove [key]` Use the hash table to determine where key is, delete it from the hash table.    
+`print:` Print out the hash table (in the array format).    
 
 # Sample Input
     linearprobing     
